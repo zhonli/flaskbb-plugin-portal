@@ -1,17 +1,18 @@
-# Translations template for PROJECT.
-# Copyright (C) 2019 ORGANIZATION
+# Chinese (Simplified, China) translations for PROJECT.
+# Copyright (C) 2017 ORGANIZATION
 # This file is distributed under the same license as the PROJECT project.
-# FIRST AUTHOR <EMAIL@ADDRESS>, 2019.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2017.
 #
-#, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2019-01-09 14:59+0800\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"PO-Revision-Date: 2017-08-30 20:01+0800\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: zh_Hans_CN\n"
+"Language-Team: zh_Hans_CN <LL@li.org>\n"
+"Plural-Forms: nplurals=1; plural=0\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -25,45 +26,51 @@ msgstr ""
 
 #: /home/v-zhonl/.virtualenvs/flaskbb/local/lib/python2.7/site-packages/portal/templates/index.html:87
 msgid "News"
-msgstr ""
+msgstr "最新信息"
 
 #: /home/v-zhonl/.virtualenvs/flaskbb/local/lib/python2.7/site-packages/portal/templates/index.html:96
 msgid "Comments"
-msgstr ""
+msgstr "回复"
 
 #: /home/v-zhonl/.virtualenvs/flaskbb/local/lib/python2.7/site-packages/portal/templates/index.html:113
 msgid "Recent Topics"
-msgstr ""
+msgstr "论坛新帖"
 
 #: /home/v-zhonl/.virtualenvs/flaskbb/local/lib/python2.7/site-packages/portal/templates/index.html:136
 msgid "Statistics"
-msgstr ""
+msgstr "统计"
 
 #: /home/v-zhonl/.virtualenvs/flaskbb/local/lib/python2.7/site-packages/portal/templates/index.html:142
 msgid "Topics"
-msgstr ""
+msgstr "主题"
 
 #: /home/v-zhonl/.virtualenvs/flaskbb/local/lib/python2.7/site-packages/portal/templates/index.html:151
 msgid "Posts"
-msgstr ""
+msgstr "帖子"
 
 #: /home/v-zhonl/.virtualenvs/flaskbb/local/lib/python2.7/site-packages/portal/templates/index.html:160
 msgid "Registered Users"
-msgstr ""
+msgstr "已注册用户"
 
 #: /home/v-zhonl/.virtualenvs/flaskbb/local/lib/python2.7/site-packages/portal/templates/index.html:170
 msgid "Newest User"
-msgstr ""
+msgstr "最新用户"
 
 #: /home/v-zhonl/.virtualenvs/flaskbb/local/lib/python2.7/site-packages/portal/templates/index.html:180
 msgid "Online Users"
-msgstr ""
+msgstr "在线用户"
 
 #: /home/v-zhonl/.virtualenvs/flaskbb/local/lib/python2.7/site-packages/portal/templates/index.html:191
 msgid "Guests online"
-msgstr ""
+msgstr "在线访客"
 
 #: /home/v-zhonl/.virtualenvs/flaskbb/local/lib/python2.7/site-packages/portal/templates/navigation_snippet.html:3
 msgid "Portal"
-msgstr ""
+msgstr "门户"
+
+#~ msgid ""
+#~ "Please install the plugin first to "
+#~ "configure the forums which should be "
+#~ "displayed"
+#~ msgstr "在配置论坛之前请首先安装要使用的插件."
 
